@@ -139,6 +139,6 @@ As the above code and comments show, `transferAllowed` will always revert the tr
 
 This contract is likely safe from the `transferProxy` attack as a result of this modifier's protection. However, the `SMT` token was being traded on many exchanges, and as of May 12, 2018, 20 days after the vulnerability was discovered, tons of people are still attempting to get rich quick every minute. 
 
-![Screen Shot 1](https://github.com/dliuproduction/ethploits/transferProxyBug/Screen1.jpg "Screen Shot 1")
+![Screen Shot 1](https://raw.githubusercontent.com/dliuproduction/ethploits/master/transferProxyBug/Screen1.jpg "Screen Shot 1")
 
-![Screen Shot 2](https://github.com/dliuproduction/ethploits/transferProxyBug/Screen2.jpg "Screen Shot 2")
+![Screen Shot 2](https://raw.githubusercontent.com/dliuproduction/ethploits/master/transferProxyBug/Screen2.jpg "Screen Shot 2")
